@@ -1,17 +1,27 @@
-# Welcome to MkDocs
+# MkDocsのテストページ
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+簡単なサイト公開のテスト
 
-## Commands
+## 箇条書きテスト
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- テスト1
+- テスト2
+- テスト3
+- テスト4
+- テスト5
+- テスト6
 
-## Project layout
+## 囲い書きのテスト
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    テストの記述 : 説明
+    さらに説明/
+        インデント化
+
+## 順番の記述テスト
+
+1. テスト1
+2. テスト2
+3. テスト3
+4. テスト4
+5. テスト5
+6. テスト6
