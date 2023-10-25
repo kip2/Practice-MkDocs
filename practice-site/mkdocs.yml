@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: MkDocs Test Page
 repo_url: https://github.com/kip2/Practice-MkDocs
 theme:
-  name: 'material'
+  name: 'material' 
