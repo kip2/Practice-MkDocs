@@ -1,5 +1,10 @@
 # Practice-MkDocs
+
 Mkdocs Practice Repository
+
+自習とメモ用のrepository
+
+気が向いたら改造するかも
 
 # Try Access!
 
@@ -90,4 +95,6 @@ URLは以下のものになる
 https://[user-name].github.io/[repository-name]
 
 
+---
 
+# ページの更新
