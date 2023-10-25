@@ -1,2 +1,4 @@
 site_name: My Docs
 repo_url: https://github.com/kip2/Practice-MkDocs
+theme:
+  name: 'material'
